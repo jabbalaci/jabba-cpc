@@ -1,6 +1,6 @@
 [package]
 name = "jabba-cpc"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Laszlo Szathmary, alias Jabba Laci <jabba.laci@gmail.com>"]
 edition = "2021"
 description = "Copies the path of the current working dir. to the clipboard. If a parameter is given, it's also added to the path."
