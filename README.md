@@ -10,7 +10,7 @@ Supported platforms: Windows and Linux (with X server).
 ## Demo
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=iNdqZzs79FU"><img width="60%" src="assets/youtube.jpg" alt="view demo on YouTube"></a>
+  <a href="https://www.youtube.com/watch?v=iNdqZzs79FU"><img width="60%" src="https://raw.githubusercontent.com/jabbalaci/jabba-cpc/main/assets/youtube.jpg" alt="view demo on YouTube"></a>
 </div>
 
 ## Windows
