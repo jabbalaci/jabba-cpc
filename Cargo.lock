@@ -10,9 +10,9 @@ checksum = "baf1de4339761588bc0619e3cbc0120ee582ebb74b53b4efbf79117bd2da40fd"
 
 [[package]]
 name = "clipboard-win"
-version = "4.4.1"
+version = "4.4.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "2f3e1238132dc01f081e1cbb9dace14e5ef4c3a51ee244bd982275fb514605db"
+checksum = "c4ab1b92798304eedc095b53942963240037c0516452cb11aeba709d420b2219"
 dependencies = [
  "error-code",
  "str-buf",
@@ -48,16 +48,16 @@ dependencies = [
 
 [[package]]
 name = "jabba-cpc"
-version = "0.1.0"
+version = "0.1.2"
 dependencies = [
  "jabba-lib",
 ]
 
 [[package]]
 name = "jabba-lib"
-version = "0.1.3"
+version = "0.1.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "e4faca06bb6c6fb86c0fe4ca8bbcd7755395a7498a809ce19e9cdebc23366430"
+checksum = "4b6daa1db255883a2388f332ba8e01a1247cdd54d1d273e37cf8d2626f11adde"
 dependencies = [
  "cfg-if",
  "clipboard-win",
