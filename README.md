@@ -48,3 +48,10 @@ methods: Ctrl+v, Shift+Insert, or mouse middle click.
 See the example above, it works similarly under Linux.
 
 Help: `cpc -h`
+
+## Installation
+
+`cpc` is written in Rust. If you have the Rust compiler, you can install it directly
+from crates.io using the command `cargo`:
+
+    $ cargo install jabba-cpc
