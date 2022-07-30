@@ -55,3 +55,7 @@ Help: `cpc -h`
 from crates.io using the command `cargo`:
 
     $ cargo install jabba-cpc
+
+## Links
+
+* [jabba-ctc](https://github.com/jabbalaci/jabba-ctc): **c**opy **t**ext to **c**lipboard
