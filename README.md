@@ -37,9 +37,9 @@ Help: `cpc.exe -h`
 
 ## Linux
 
-`cpc` relies on the external command `xclip` to manipulate the content of the clipboard.
-Thus, you must install `xclip` using your package manager (under Ubuntu it's
-`sudo apt install xclip`).
+`cpc` relies on the external command `xsel` to manipulate the content of the clipboard.
+Thus, you must install `xsel` using your package manager (under Ubuntu it's
+`sudo apt install xsel`).
 
 Under Linux, there are two clipboards. They are called "primary" and "clipboard". `cpc`
 puts the path on both of them, thus you can insert the path with one of the following
