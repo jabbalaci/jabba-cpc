@@ -16,9 +16,10 @@ jabba-lib = "0.1.4"
 
 # See https://github.com/johnthagen/min-sized-rust
 [profile.release]
+strip = true
 opt-level = "z"
 lto = true
-strip = true
+codegen-units = 1
 
 [[bin]]
 bench = false
